@@ -3,7 +3,7 @@
 
 ## How to install
 ```sh 
-npm install @godswill/reverse-sentence
+npm install @godswill/reverse-word
 
 ## API
 
